@@ -7,7 +7,7 @@ SENSITIVITY: Standard  <br/><br/><br/>
 
 ### 1. Intelligence Assessment
 **Date:** February 17, 2026
-**Threat Actor:** Unknown (Impersonating Ciena Telecommunications)
+**Threat Actor:** Steven Lucky (Impersonating Ciena Telecommunications)
 **Vector:** Phishing Email
 **Confidence Level:** High
 
